@@ -1,0 +1,5 @@
+if a < 3 then
+    if a = 2
+        then c := 2
+    else if a < 2
+        then b := 1

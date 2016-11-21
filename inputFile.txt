@@ -1,0 +1,20 @@
+prova := 1234;
+if a > 1 then
+  if a>12 then
+    if somma >= 38 then b:=5 else b:=6
+  else a := 1;
+if a > 1 then
+  if a>12 then
+    if somma >= 38 then b:=5 else b:=6
+  else ciao := 1;
+a := 12;prova := 1234;
+if a > 1 then
+  if a>12 then
+    if somma >= 38 then b:=5 else b:=6
+  else a := 1;
+if a > 1 then
+  if a>12 then
+    if somma >= 38 then b:=5 else b:=6
+  else ciao := 1;
+a := 12;
+basta := a
